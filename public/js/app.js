@@ -1,11 +1,11 @@
-  // Initialize Firebase
-  var config = {
-    apiKey: "AIzaSyCeEjZzg2aS0asB0KgAyP4Hl2EjpRPC5C8",
-    authDomain: "wallpaperke.firebaseapp.com",
-    databaseURL: "https://wallpaperke.firebaseio.com",
-    projectId: "wallpaperke",
-    storageBucket: "wallpaperke.appspot.com",
-    messagingSenderId: "1019607022359"
+   // Initialize Firebase
+   var config = {
+    apiKey: "AIzaSyC5v64_kv2BFy6AJax18KKiqnR7ZL1lemY",
+    authDomain: "afripaper-337d4.firebaseapp.com",
+    databaseURL: "https://afripaper-337d4.firebaseio.com",
+    projectId: "afripaper-337d4",
+    storageBucket: "afripaper-337d4.appspot.com",
+    messagingSenderId: "323963704110"
   };
   firebase.initializeApp(config);
 
