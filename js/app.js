@@ -1,11 +1,11 @@
-   // Initialize Firebase
-   var config = {
-    apiKey: "AIzaSyC5v64_kv2BFy6AJax18KKiqnR7ZL1lemY",
-    authDomain: "afripaper-337d4.firebaseapp.com",
-    databaseURL: "https://afripaper-337d4.firebaseio.com",
-    projectId: "afripaper-337d4",
-    storageBucket: "afripaper-337d4.appspot.com",
-    messagingSenderId: "323963704110"
+ // Initialize Firebase
+ var config = {
+    apiKey: "AIzaSyCv_8xey9wTe2r5gl8twHpmzrWUnlAW6wQ",
+    authDomain: "afripaper2.firebaseapp.com",
+    databaseURL: "https://afripaper2.firebaseio.com",
+    projectId: "afripaper2",
+    storageBucket: "afripaper2.appspot.com",
+    messagingSenderId: "233984910956"
   };
   firebase.initializeApp(config);
 
